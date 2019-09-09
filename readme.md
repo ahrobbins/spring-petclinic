@@ -145,3 +145,4 @@ test j2
 test..
 j2 test
 asdf
+j2 build test
