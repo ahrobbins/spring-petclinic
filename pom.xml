@@ -124,7 +124,7 @@
          <warFile>target\petclinic.war</warFile>
          <path>/petclinic</path>
          <username>admin</username>
-        <password>sHerlock3d!</password>
+        <password>sH3rlock3d!</password>
          </configuration>
      </plugin>  
       <plugin>
